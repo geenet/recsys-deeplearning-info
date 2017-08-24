@@ -1,5 +1,5 @@
-# recsys-on-deeplearning
-Awesome papers / frameworks / libraries focus on recsys on deep learning.
+# Deep Learning and Recommenders
+papers / frameworks / libraries 
 
 ## Main Papers
 * [A Multi-View Deep Learning Approach for Cross Domain User Modeling in Recommendation Systems](http://www.www2015.it/documents/proceedings/proceedings/p278.pdf) ([Link 2](http://dl.acm.org/citation.cfm?id=2741667) ) - WWW2015
