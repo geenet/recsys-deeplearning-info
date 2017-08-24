@@ -13,6 +13,8 @@ papers / frameworks / libraries
 * [Conversational Recommendation System with Unsupervised Learning](http://dl.acm.org/citation.cfm?id=2959114&CFID=731295212&CFTOKEN=22607582) - RecSys2016
 * [Ask the GRU: Multi-task Learning for Deep Text Recommendations](https://arxiv.org/pdf/1609.02116.pdf) ( [Link 2](http://dl.acm.org/citation.cfm?id=2959180) ) - RecSys2016
 * [Deep Auto-Encoding for Context-Aware Inference of Preferred Items' Categories](http://ceur-ws.org/Vol-1688/paper-16.pdf) RecSys 2016 Poster
+* [Improved Recurrent Neural Networks for Session-based Recommendations](https://arxiv.org/abs/1606.08117) - DLRS2016
+* [Neural Autoregressive Collaborative Filtering for Implicit Feedback](https://arxiv.org/abs/1606.07674) - DLRS2016
 * [Wide & Deep Learning for Recommender Systems](https://arxiv.org/pdf/1606.07792.pdf) [Link 2](http://dl.acm.org/citation.cfm?id=2988454) - DLRS2016
 * [Hybrid Recommender System based on Autoencoders](https://arxiv.org/pdf/1606.07659.pdf) [Link 2](http://dl.acm.org/citation.cfm?id=2988456) - DLRS2016
 * [Infusing Collaborative Recommenders with Distributed Representations](https://arxiv.org/pdf/1608.06298.pdf) [Link 2](http://dl.acm.org/citation.cfm?id=2988455) - DLRS2016
@@ -22,6 +24,10 @@ papers / frameworks / libraries
 * [Multi-Rate Deep Learning for Temporal Recommendation](http://sonyis.me/paperpdf/spr209-song_sigir16.pdf) [Link 2](http://dl.acm.org/citation.cfm?id=2914726) - SIGIR2016
 * [Collaborative Deep Ranking: A Hybrid Pair-Wise Recommendation Algorithm with Implicit Feedback](http://inpluslab.sysu.edu.cn/chenliang/homepagefiles/paper/hao-pakdd2016.pdf) [Link 2](https://link.springer.com/chapter/10.1007/978-3-319-31750-2_44) - PAKDD2016
 
+* [Recurrent Latent Variable Networks for Session-Based Recommendation](https://arxiv.org/abs/1706.04026) - DLRS2017
+* [Contextual Sequence Modeling for Recommendation with Recurrent Neural Networks](https://arxiv.org/pdf/1706.07684.pdf) - DLRS2017
+* [Inter-Session Modeling for Session-Based Recommendation](https://arxiv.org/abs/1706.07506) - DLRS2017
+* [Specializing Joint Representations for the task of Product Recommendation](https://arxiv.org/pdf/1706.07625.pdf) - DLRS2017
 * [Neural Collaborative Filtering](http://papers.www2017.com.au.s3-website-ap-southeast-2.amazonaws.com/proceedings/p173.pdf) - WWW2017
 * [Localy Connected Deep Learning Framework for Industrial-scale Recommender Systems](http://papers.www2017.com.au.s3-website-ap-southeast-2.amazonaws.com/companion/p769.pdf) - WWW2017 Companion
 * [Recurrent Recommender Networks](http://dl.acm.org/citation.cfm?id=3018689&CFID=731295212&CFTOKEN=22607582) - WSDM2017
@@ -44,6 +50,7 @@ papers / frameworks / libraries
 * [Natural-Parameter Networks: A Class of Probabilistic Neural Networks](http://papers.nips.cc/paper/6279-natural-parameter-networks-a-class-of-probabilistic-neural-networks.pdf) - NIPS2016
 * [Towards Bayesian Deep Learning: A Framework and Some Existing Methods](https://arxiv.org/pdf/1608.06884.pdf) [Link 2](http://ieeexplore.ieee.org/abstract/document/7562516/) - IEEE TKDE, 2016
 * [On Sampling Strategies for Neural Network-based Collaborative Filtering](http://www.hongliangjie.com/publications/kdd2017.pdf) - KDD2017
+* [Generative Temporal Models with Memory](https://arxiv.org/pdf/1702.04649.pdf) - Arxiv, 2017 (Deepmind)
 
 
 
