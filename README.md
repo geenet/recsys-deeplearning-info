@@ -33,7 +33,7 @@ papers / frameworks / libraries
 * [TransNets: Learning to Transform for Recommendation](http://dl.acm.org/citation.cfm?id=3109878) - RecSys2017
 * [Collaborative filtering and deep learning based recommendation system for cold start items](https://research.aston.ac.uk/portal/files/21468560/Recommendation_system_for_cold_start_items.pdf) [Link 2](http://www.sciencedirect.com/science/article/pii/S0957417416305309) - Exp.Sys.App, 2017
 * [Deep hybrid recommender systems via exploiting document context and statistics of items](http://www.sciencedirect.com/science/article/pii/S0020025516318539) - Inf.Sci, 2017
-* [Representation Learning of Users and Items for Review Rating Prediction Using Attention-based Convolutional Neural Network] (http://mlrec.org/2017/papers/paper8.pdf) - MLRec2017 (In conjunction with SDM2017)
+* [Representation Learning of Users and Items for Review Rating Prediction Using Attention-based Convolutional Neural Network](http://mlrec.org/2017/papers/paper8.pdf) - MLRec2017 (In conjunction with SDM2017)
 * [Understanding Consumer Behavior with Recurrent Neural Networks](http://mlrec.org/2017/papers/paper2.pdf) - MLRec2017 (In conjunction with SDM2017)
 * [Relational Deep Learning: A Deep Latent Variable Model for Link Prediction](http://www.aaai.org/ocs/index.php/AAAI/AAAI17/paper/download/14346/14463) - AAAI2017
 * [A Deep Architecture for Content-based Recommendations Exploiting Recurrent Neural Networks](http://dl.acm.org/citation.cfm?id=3079684) - UMAP2017
