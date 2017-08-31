@@ -37,6 +37,7 @@ papers / frameworks / libraries
 * [Dynamic Attention Deep Model for Article Recommendation by Learning Human Editors' Demonstration](https://pdfs.semanticscholar.org/584e/dd6752ce246ff480ee2228770b80d9e59c74.pdf) [Link 2](http://dl.acm.org/citation.cfm?id=3098096) - KDD2017
 * [Bridging Collaborative Filtering and Semi-Supervised Learning: A Neural Approach for POI Recommendation](http://chaozhang.org/files/papers/kdd17a.pdf) [Link 2](http://dl.acm.org/citation.cfm?id=3098094) - KDD2017
 * [TransNets: Learning to Transform for Recommendation](http://dl.acm.org/citation.cfm?id=3109878) - RecSys2017
+* [Sequential User-based Recurrent Neural Network Recommendations](http://dl.acm.org/citation.cfm?id=3109877) - RecSys2017
 * [Collaborative filtering and deep learning based recommendation system for cold start items](https://research.aston.ac.uk/portal/files/21468560/Recommendation_system_for_cold_start_items.pdf) [Link 2](http://www.sciencedirect.com/science/article/pii/S0957417416305309) - Exp.Sys.App, 2017
 * [Deep hybrid recommender systems via exploiting document context and statistics of items](http://www.sciencedirect.com/science/article/pii/S0020025516318539) - Inf.Sci, 2017
 * [Representation Learning of Users and Items for Review Rating Prediction Using Attention-based Convolutional Neural Network](http://mlrec.org/2017/papers/paper8.pdf) - MLRec2017 (In conjunction with SDM2017)
