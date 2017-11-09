@@ -28,6 +28,7 @@ papers / frameworks / libraries
 * [Contextual Sequence Modeling for Recommendation with Recurrent Neural Networks](https://arxiv.org/pdf/1706.07684.pdf) - DLRS2017
 * [Inter-Session Modeling for Session-Based Recommendation](https://arxiv.org/abs/1706.07506) - DLRS2017
 * [Specializing Joint Representations for the task of Product Recommendation](https://arxiv.org/pdf/1706.07625.pdf) - DLRS2017
+* [AutoSVD++: An Eicient Hybrid Collaborative Filtering Model via Contractive Auto-encoders](https://arxiv.org/pdf/1704.00551.pdf) [Link 2](https://dl.acm.org/citation.cfm?id=3080689) - SIGIR2017
 * [Neural Collaborative Filtering](http://papers.www2017.com.au.s3-website-ap-southeast-2.amazonaws.com/proceedings/p173.pdf) - WWW2017
 * [Localy Connected Deep Learning Framework for Industrial-scale Recommender Systems](http://papers.www2017.com.au.s3-website-ap-southeast-2.amazonaws.com/companion/p769.pdf) - WWW2017 Companion
 * [Recurrent Recommender Networks](http://dl.acm.org/citation.cfm?id=3018689&CFID=731295212&CFTOKEN=22607582) - WSDM2017
