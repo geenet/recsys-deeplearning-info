@@ -45,6 +45,7 @@ papers / frameworks / libraries
 * [Relational Deep Learning: A Deep Latent Variable Model for Link Prediction](http://www.aaai.org/ocs/index.php/AAAI/AAAI17/paper/download/14346/14463) - AAAI2017
 * [A Deep Architecture for Content-based Recommendations Exploiting Recurrent Neural Networks](http://dl.acm.org/citation.cfm?id=3079684) - UMAP2017
 * [Trust-aware Collaborative Denoising Auto-Encoder for Top-N Recommendation](https://pdfs.semanticscholar.org/9d52/b8098c160f1fff6c65983d05dd7efc783431.pdf) - Arxiv 2017
+* [Deep Learning based Recommender System: A Survey and New Perspectives](https://arxiv.org/pdf/1707.07435.pdf) - Arxiv 2017
 
 
 ## Relevant Papers (but somewhat not necessarily focused on recommendation task)
